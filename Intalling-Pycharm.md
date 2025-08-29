@@ -35,6 +35,12 @@ Após ter sua conta validada, acesse
 
 ![](https://github.com/tgvp/Data-Science/blob/main/img/jetbrains_github_validation.png)
 
+---
+
+> ** Importante: **A validação leva um tempo para ser realizada. Enquanto espera, você pode usar a Versão de Teste (30 dias)**.
+
+---
+
 ## Sumário
 - [1. Download](#1-download)
 - [2. Instalação por Sistema Operacional](#2-instalação-por-sistema-operacional)
