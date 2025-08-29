@@ -1,4 +1,6 @@
-# Guia de Instalação do PyCharm + Jupyter Notebooks (Windows / macOS / Linux)
+# Guia de Instalação do PyCharm + Jupyter Notebooks
+
+**Este Guia serve para os Sistemas Operativos `Windows`, `macOS` e `Linux`.**
 
 O **PyCharm** é um IDE da JetBrains para desenvolvimento Python.
 - **Community Edition (gratuita)** – Sem suporte nativo a Jupyter Notebooks.
