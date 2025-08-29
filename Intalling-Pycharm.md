@@ -2,6 +2,9 @@
 
 **Este Guia serve para os Sistemas Operativos `Windows`, `macOS` e `Linux`.**
 
+Este guia assume que você já possui o Python instalado. Caso contrário, acesse
+> **https://www.python.org/downloads/**
+
 O **PyCharm** é um IDE da JetBrains para desenvolvimento Python.
 - **Community Edition (gratuita)** – Sem suporte nativo a Jupyter Notebooks.
 - **Professional Edition (gratuita com conta educacional)** – Inclui suporte nativo a **Jupyter Notebooks** e ferramentas de ciência de dados.
