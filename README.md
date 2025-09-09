@@ -3,7 +3,7 @@ Data Science repository containing support material and practical exercises.
 
 ---
 - Installation Guide of Pycharm + Jupyter Notebook
-  - [`Intalling-Pycharm.md`](https://github.com/tgvp/Data-Science/blob/main/Intalling-Pycharm.md)
+  - [`Installing-Pycharm.md`](https://github.com/tgvp/Data-Science/blob/main/Intalling-Pycharm.md)
 
 ---
 ## Week 1:
