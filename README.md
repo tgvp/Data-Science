@@ -15,3 +15,7 @@ Data Science repository containing support material and practical exercises.
 
 ## Week 2:
   - [`ds-pr-week-2-student.ipynb`](https://github.com/tgvp/Data-Science/blob/main/Week_2/ds-pr-week-2-student.ipynb)
+
+## Week 3:
+  - [`ds-pr-week-3-student.ipynb`](https://github.com/tgvp/Data-Science/blob/main/Week_3/ds-pr-week-3-student.ipynb)
+
