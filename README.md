@@ -27,7 +27,7 @@ Data Science repository containing support material and practical exercises.
 
 ## Week 4:
   - [`ds-pr-week-4-student.ipynb`](https://github.com/tgvp/Data-Science/blob/main/Week_4/ds-pr-week-4-student.ipynb)
-  - ⚠️🚨[`ds-pr-week-4-solution.ipynb`](https://github.com/tgvp/Data-Science/blob/main/Week_4/ds-pr-week-4-solution.ipynb)🚨⚠️UPDATED!!!
+  - [`ds-pr-week-4-solution.ipynb`](https://github.com/tgvp/Data-Science/blob/main/Week_4/ds-pr-week-4-solution.ipynb)
   
   - Dataset:
     - [`Auto.csv`](https://github.com/tgvp/Data-Science/blob/main/Week_4/Auto.csv)
