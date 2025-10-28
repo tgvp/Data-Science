@@ -40,6 +40,9 @@ Data Science repository containing support material and practical exercises.
 
 ## Week 8:
   - [`ds-pr-week-8-student.ipynb`](https://github.com/tgvp/Data-Science/blob/main/Week_8/ds-pr-week-8-student.ipynb)
-
+  
+  - Datasets:
+    - [`kc_house_data`](https://github.com/tgvp/Data-Science/blob/main/Week_8/kc_house_data.csv)
+    - [`lifestyle_health`](https://github.com/tgvp/Data-Science/blob/main/Week_8/lifestyle_health.csv)
  
 
