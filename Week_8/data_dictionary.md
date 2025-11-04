@@ -1,41 +1,41 @@
-id
+id - Unique ID for each home sold
 
-date: Date house was sold
+date - Date of the home sale
 
-price: Price of the sold house
+price - Price of each home sold
 
-bedrooms: Number of Bedrooms
+bedrooms - Number of bedrooms
 
-bathrooms: Number of bathrooms
+bathrooms - Number of bathrooms, where .5 accounts for a room with a toilet but no shower
 
-sqft_living: Square footage of the living room
+sqft_living - Square footage of the apartment interior living space
 
-sqrt_log: Square footage of the log
+sqft_lot - Square footage of the land space
 
-floors: Total floors in the house
+floors - Number of floors
 
-waterfront: Whether the house has a view a waterfront(1: yes, 0: not)
+waterfront - A dummy variable for whether the apartment was overlooking the waterfront or not
 
-view: ocean/lake view
+view - An index from 0 to 4 of how good the view of the property was
 
-condtion: Condition of the house
+condition - An index from 1 to 5 on the condition of the apartment,
 
-grade: grade
+grade - An index from 1 to 13, where 1-3 falls short of building construction and design, 7 has an average level of construction and design, and 11-13 have a high-quality level of construction and design.
 
-sqft_above: Square footage of house apart from basement
+sqft_above - The square footage of the interior housing space that is above ground level
 
-sqft_basement: Square footage of the basement
+sqft_basement - The square footage of the interior housing space that is below ground level
 
-yr_built: Built year
+yr_built - The year the house was initially built
 
-yr_renovated: Year when the house was renovated
+yr_renovated - The year of the house’s last renovation
 
-zipcode: zipcode of the house
+zipcode - What zipcode area the house is in
 
-lat: Latitude coordinate
+lat - Lattitude
 
-long Longitude coordinate
+long - Longitude
 
-sqft_living15: Living room area in 2015(implies some renovations)
+sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
 
-sqrt_lot15: Lot area in 2015(implies some renovations)
+sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
