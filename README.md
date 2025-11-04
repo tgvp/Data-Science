@@ -96,8 +96,13 @@ Local development environments for Python:
 
 ## 📆 Week 6
 
-- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_6/ds-week-6-student.ipynb)
-- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/Data-Science/blob/main/Week_6/ds-week-6-student.ipynb)
+### 🧩 Student Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb)
+
+### ✅ Solution Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_6/ds-pr-week-6-solution.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-FFB300?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/Data-Science/blob/main/Week_6/ds-pr-week-6-solution.ipynb)
 
 ---
 
@@ -110,6 +115,8 @@ Local development environments for Python:
 ### 📂 Datasets
 - [![kc_house_data.csv](https://img.shields.io/badge/kc_house_data.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_8/kc_house_data.csv)
 - [![lifestyle_health.csv](https://img.shields.io/badge/lifestyle_health.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_8/lifestyle_health.csv)
+
+---
 
 ## 📆 Week 9
 
