@@ -110,6 +110,12 @@ Local development environments for Python:
 
 ---
 
+## 📆 Week 7
+
+### 📝💡✏️ Practical Test
+
+---
+
 ## 📆 Week 8
 
 ### 🧩 Student Version
@@ -154,5 +160,11 @@ Local development environments for Python:
 
 ### 📂 Datasets
 - [![real_estate_price_size_year_view.csv](https://img.shields.io/badge/real_estate_price_size_year_view.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_11/real_estate_price_size_year_view.csv)
+
+---
+
+## 📆 Week 14
+
+### 📝💡✏️ Practical Test
 
 ---
