@@ -179,6 +179,15 @@ Local development environments for Python:
 
 ---
 
+## 📆 Week 13
+
+### 🧩 Student Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_13/ds-pr-week-13-student.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/Data-Science/blob/main/Week_13/ds-pr-week-13-student.ipynb)
+
+### 📂 Datasets
+- [![Auto.csv](https://img.shields.io/badge/Auto.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_13/Auto.csv)
+- [![StudentPerformance.csv](https://img.shields.io/badge/StudentPerformance.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_13/StudentPerformance.csv)
 
 ## 📆 Week 14
 
